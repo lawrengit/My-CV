@@ -1,0 +1,35 @@
+body {
+    background-color: #EAF6F6;
+ } 
+
+ hr {
+    border-style: None;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+ }
+
+ #Heading{
+    color: #66BFBF;
+ }
+
+ .Edu{
+    color: red;
+ }
+
+ .Exp{
+    color: #66BFBF;
+ }
+
+ .Skl{
+    color: #66BFBF;
+ }
+
+ .Cont{
+    color: #66BFBF;
+ }
+
+ .Hobs{
+    color: #66BFBF;
+ }
