@@ -10,14 +10,26 @@ body {
     width: 5%;
  }
 
- h1{
+ #Heading{
     color: #66BFBF;
  }
 
- h3{
+ .Edu{
     color: #66BFBF;
  }
 
- h4{
+.Exp{
+    color: #66BFBF;
+}
+
+ .Skl{
+    color: #66BFBF;
+ }
+
+ .Cont{
+    color: #66BFBF;
+ }
+
+ .Hobs{
     color: #66BFBF;
  }
